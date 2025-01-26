@@ -8,7 +8,7 @@
 - (Roblox: RobloxPlayerBeta.exe) - Failed
 
 ## How do i use it? ✅
-1. Install the latest release.
+1. Install the latest [release](https://github.com/nebulal0l/SillyDLL/releases).
 2. Extract
 3. Run SillyDll.exe (No virus!)
 4. Done! Follow steps in the exe.
