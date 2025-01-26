@@ -1,7 +1,7 @@
 # SillyDLL 🔒
 
 ## What is SillyDLL? 🌈
-- SillyDLL is a DLL Injector for almost any process. Just dont mess up the name!
+- [SillyDLL](https://sillydll.socials.lat) is a DLL Injector for almost any process. Just dont mess up the name!
 
 ## What have you tested? ⭐
 - (Counter Strike 2: cs2.exe) - Worked, with -insecure flag
