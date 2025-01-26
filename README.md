@@ -6,6 +6,7 @@
 ## What have you tested? ⭐
 - (Counter Strike 2: cs2.exe) - Worked, with -insecure flag
 - (Roblox: RobloxPlayerBeta.exe) - Failed
+- (Opera GX: opera.exe) Instant Injection. - Success
 
 ## How do i use it? ✅
 1. Install the latest [release](https://github.com/nebulal0l/SillyDLL/releases).
